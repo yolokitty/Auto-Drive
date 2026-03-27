@@ -1,3 +1,7 @@
+### 📘 프로젝트 상세 설명
+
+&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31945465d27180a583f3e30983dee1a6)
+
 • **자율주행 RC카 시스템**
 
 고속 주행 환경에서 초음파 센서를 활용하여 장애물을 감지하고, 이를 기반으로 자율적으로 주행하는 RC카를 구현하였다.
